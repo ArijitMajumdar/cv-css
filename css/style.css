@@ -139,3 +139,11 @@ p{
       color: #0E185F;
       padding: 25px 0;
   }
+  h3 a{
+    color: #0E185F;
+    
+  }
+
+  h3 a:hover{
+    color: #00ccff;
+  }
